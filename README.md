@@ -1,8 +1,7 @@
-🌟 TypeScript + Vite Starter Project
+# MobiusEngine.ai
 
-Welcome to the TypeScript + Vite Starter Project! This repository serves as a lightweight boilerplate for building modern web applications with TypeScript and Vite. 🚀
-
-✨ Features
+This is a customized landing page made with Typescript and Vite for MobiusEngine.ai
+### ✨ Features
 
 🧑‍💻 TypeScript for type-safe JavaScript development.
 
@@ -12,7 +11,7 @@ Welcome to the TypeScript + Vite Starter Project! This repository serves as a li
 
 🛠️ Easy-to-extend architecture.
 
-🚀 Getting Started
+### 🚀 Getting Started
 
 Follow these steps to get started with this project on your local machine.
 
@@ -23,60 +22,65 @@ Open your terminal or command prompt.
 Run the following command to clone the repository:
 
 # Clone the repository
-git clone https://github.com/Swapnanilmanna1701/mobiusengine.ai.git
+git clone https://github.com/your_github_username/mobiusengine.ai.git
 
 # Navigate into the project directory
 cd mobiusengine.ai
 
-📦 Installing Dependencies
+### 📦 Installing Dependencies
 
 Make sure you have Node.js installed (LTS version recommended).
 
-# Install dependencies using npm
+ ```bash
+
+# Install dependencies using npm:
 npm install
 
-# Or, if you prefer Yarn:
-yarn install
+# Or, if you prefer bun:
+bun install
 
 # Or, using pnpm:
 pnpm install
+```
 
 🛠️ Running the Development Server
 
 Start the Vite development server:
-
+ ```bash
 npm run dev
 # Or:
-yarn dev
+bun dev
 # Or:
 pnpm dev
+```
 
 Open your browser and navigate to http://localhost:5173 to see your project running!
 
-📦 Building for Production
+### 📦 Building for Production
 
 To build the project for production:
-
+```bash
 npm run build
 # Or:
-yarn build
+bun build
 # Or:
 pnpm build
+```
 
 The production-ready files will be available in the dist/ directory.
 
-🔍 Previewing the Production Build
+### 🔍 Previewing the Production Build
 
 To preview the production build locally:
-
+```bash
 npm run preview
 # Or:
-yarn preview
+bun preview
 # Or:
 pnpm preview
-
-🛠️ Project Structure
-
+```
+### 🛠️ Project Structure
+```
 src/
 ├── assets/         # Static assets (images, fonts, etc.)
 ├── components/     # Reusable React/Vue components
@@ -86,8 +90,9 @@ src/
 └── vite-env.d.ts   # TypeScript definitions for Vite
 
 public/             # Public static files
+```
 
-📜 Scripts
+### 📜 Scripts
 
 Here are the main scripts available:
 
@@ -101,7 +106,7 @@ npm run lint: Lint the project files with ESLint.
 
 npm run format: Format the code with Prettier.
 
-📖 Learn More
+### 📖 Learn More
 
 TypeScript Documentation
 
@@ -111,11 +116,11 @@ ESLint Documentation
 
 Prettier Documentation
 
-💡 Contributing
+### 💡 Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve this project.
 
-📝 Steps to Contribute
+### 📝 Steps to Contribute
 
 Fork this repository.
 
@@ -127,13 +132,7 @@ Push to the branch: git push origin my-feature-branch
 
 Submit a pull request.
 
-📄 License
-
+### 📄 License
 This project is licensed under the MIT License.
-
-🧑‍🤝‍🧑 Community
-
-Join our developer community on Discord for discussions, support, and collaboration.
-
-Happy coding! 💻✨
+### Happy coding! 💻✨
 
